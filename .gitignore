@@ -258,7 +258,7 @@ ServiceFabricBackup/
 *.ndf
 
 # SQLite file
-slnx.sqlite
+.vs/slnx.sqlite
 
 # Business Intelligence projects
 *.rdl.data
