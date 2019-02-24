@@ -1,2 +1,4 @@
 This is a second file, created by the owner of the repo.
 I'm making small exercies with pulls, commits, forks and so on, so that I can understand very well the way of working with Git in an Open Source project
+
+Now added this change to the added File, this should be added as a PR
